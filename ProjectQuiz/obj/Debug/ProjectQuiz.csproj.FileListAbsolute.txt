@@ -1,0 +1,7 @@
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\bin\Debug\ProjectQuiz.exe.config
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\bin\Debug\ProjectQuiz.exe
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\bin\Debug\ProjectQuiz.pdb
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\obj\Debug\ProjectQuiz.csprojAssemblyReference.cache
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\obj\Debug\ProjectQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\obj\Debug\ProjectQuiz.exe
+C:\Users\Dim\source\repos\ProjectQuiz\ProjectQuiz\obj\Debug\ProjectQuiz.pdb
